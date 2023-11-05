@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+.upper-section{
+    background-color: #002647;
+    padding: 1.5rem;
+}
+h1{
+    color: #012E57;
+    padding: 0.2rem;
+    text-align: center;
+    margin: 2rem;
+    font-size: 3.5rem;
+}
+p{
+    text-align: center;
+    font-size: 1.3rem;
+    margin: 2rem;
+}
+form{
+    display: flex;
+    width:20%;
+    margin: auto;
+    /* padding: 5rem; */
+}
+input{
+    /* padding: 10rem; */
+    height: 2rem;
+    width: 100%;
+    border-radius: 0.3rem;
+}
+.button-28{
+    width: 35%;
+    margin-left: 1rem;
+    background-color: white;
+    border-radius: 1rem;
+    /* padding: 0.6rem; */
+    cursor: pointer;
+}
+.button-28:hover{
+    background-color: black;
+    color: white;
+}

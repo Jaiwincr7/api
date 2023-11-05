@@ -1,0 +1,17 @@
+[
+    {
+        "id": "123456789",
+        "name": "Ajay Kumar",
+        "mail_id": "ajaykumar@gmail.com",
+        "affected": "Billateral",
+        "condition": "Ortho",
+        "speciality": "osteoarthritis"
+    }, {
+        "id": "987654321",
+        "name": "Vijay Kumar",
+        "mail_id": "vijaykumar@gmail.com",
+        "affected": "Billateral",
+        "condition": "Ortho",
+        "speciality": "osteoarthritis"
+    }
+]
